@@ -2,7 +2,7 @@
 
 Last updated: 21 November 2024
 
-This privacy policy is applicable to the “Letter mirroring for dyslexia by egraphene.net” (referred to as "the Extension") for Chrome web browsers, which was developed by eGraphene.net (referred to as "Us" or “We").
+This privacy policy is applicable to the “Letter mirroring for dyslexia by egraphene.net” browser extension (referred to as "the Extension") for Chrome web browsers, which was developed by eGraphene.net (referred to as "Us" or “We").
 
 ## What information does the Extension collect?
 
