@@ -10,7 +10,7 @@ The Extension does not collect any information about the user.
 
 ## Does the Extension collect location information of the device?
 
-This Extension does not gather any information about user location.
+This Extension does not gather any information about the device or user location.
 
 ## Do third parties see and/or have access to information obtained by the Extension?
 
