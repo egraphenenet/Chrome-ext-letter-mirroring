@@ -22,7 +22,7 @@ You can opt-out by removing the Extension.
 
 ## Changes
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed Extensionroval of all changes.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 ## Your Consent
 
