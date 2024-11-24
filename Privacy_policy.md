@@ -26,4 +26,4 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 ## Your Consent
 
-By using the Extension, you agree to with the privacy policy.
+By using the Extension, you agree with the privacy policy.
